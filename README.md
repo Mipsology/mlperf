@@ -1,1 +1,1 @@
-# Mipsology Zebra mlperf
+# Mipsology Zebra - MLPerf Inference
