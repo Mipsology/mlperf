@@ -1,0 +1,8 @@
+INFO:main:closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/server/accuracy, accuracy is 75.754
+INFO:main:closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/server is OK
+INFO:main:closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/offline/accuracy, accuracy is 75.844
+INFO:main:closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/offline is OK
+INFO:main:Results closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/server 4096.32
+INFO:main:Results closed/Xilinx_and_Mipsology/results/Xilinx_U250_with_Mipsology_Zebra/resnet50/offline 5011.29
+INFO:main:Results=2, NoResults=0
+INFO:main:SUMMARY: submission looks OK

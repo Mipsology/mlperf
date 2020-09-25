@@ -1,0 +1,7 @@
+We quantize the network parameters and the activations to 8-bit signed integers. The quantization is performed by multiplying the parameters by scaling values, clamping the results to the 8-bit integer range and rounding to nearest integer. No retraining is performed nor labeled data used.
+The softmax layer is not quantized and executed on the CPU.
+
+The quantization uses one of the calibration sets and is performed in a couple of minutes. The scaling parameters are chosen using the data obtained from computing the calibration set.
+The weights are quantized using per-channel symmetric quantization.
+The biases and activations are quantized using per-tensor symmetric quantization. 
+

@@ -1,0 +1,31 @@
+{
+    "division": "closed",
+    "status": "available",
+    "submitter": "Xilinx_and_Mipsology",
+    "system_type": "datacenter",
+    "system_name": "Xilinx Alveo U250 & Zebra 2020.03",
+    
+    "number_of_nodes": 1,
+    "host_memory_capacity": "32GB",
+    "host_processor_core_count": 8,
+    "host_processor_frequency": "3.6GHz",
+    "host_processor_model_name": "Intel(R) Core(TM) i7-9700K",
+    "host_processors_per_node": 1,
+    "host_storage_capacity": "500GB",
+    "host_storage_type": "SSD",
+    
+    "accelerator_frequency": "680MHz",
+    "accelerator_host_interconnect": "-",
+    "accelerator_interconnect": "-",
+    "accelerator_interconnect_topology": "-",
+    "accelerator_memory_capacity": "64GB",
+    "accelerator_memory_configuration": "DDR4",
+    "accelerator_model_name": "Xilinx Alveo U250 & Mipsology Zebra 2020.03",
+    "accelerator_on-chip_memories": "-",
+    "accelerators_per_node": 1,
+
+    "framework": "Mipsology Zebra V2020.03 & TensorFlow 1.14",
+    "operating_system": "ubuntu-18.04",
+    "other_software_stack": "",
+    "sw_notes": ""
+}
